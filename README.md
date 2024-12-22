@@ -26,8 +26,8 @@ This project is a Flask-based Appointment Scheduler API that facilitates schedul
 1. Clone the repository:
 
     ```bash
-    git clone <repository_url>
-    cd <repository_name>
+    git clone https://github.com/Shevilll/API_CollegeAppointmentSystem
+    cd API_CollegeAppointmentSystem
     ```
 
 2. Install the required dependencies
